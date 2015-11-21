@@ -1,4 +1,4 @@
-package br.com.uaijug.hello;
+package br.com.uaijug.hello.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
